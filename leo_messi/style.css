@@ -19,4 +19,7 @@ body{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnHaNlBKSvFHv0SzWzy_7vz4b8TtO6NkTlfg&s);}
 .alhue{background-color: blue;
 text-align: center;}
-.imgalhue{align-items: center;}
+.imgalhue{
+    display: flex;
+justify-content: center;
+}
