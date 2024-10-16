@@ -1,0 +1,22 @@
+.titulo{ color:white;
+background-color: blue;}
+.titulo{text-decoration:underline;
+}
+p{color:white}
+ 
+h2{color:gold}
+h3{background-color: ;}
+h3{background-color: blue;}
+h2{background-color: blue;}  /*color fondo*/
+h3{ opacity: 0,5;}
+p{opacity: 1;}
+.titulo{font-size: 100px;}
+
+.imagenmessi{
+text-align: center;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnHaNlBKSvFHv0SzWzy_7vz4b8TtO6NkTlfg&s);}
+.alhue{background-color: blue;
+text-align: center;}
+.imgalhue{align-items: center;}
