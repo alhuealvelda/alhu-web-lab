@@ -1,5 +1,4 @@
-.titulo{ color:white;
-background-color: blue;}
+
 .titulo{text-decoration:underline;
 }
 p{color:white}
@@ -22,4 +21,11 @@ text-align: center;}
 .imgalhue{
     display: flex;
 justify-content: center;
+flex-direction: row;
+}
+
+a{background-color: white;}
+.imgalhue img {
+width:400px ;
+
 }
