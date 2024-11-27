@@ -29,3 +29,30 @@ a{background-color: white;}
 width:400px ;
 
 }
+.boton{
+color: rgb(4, 0, 255);
+background-color:yellow;
+}
+.boton:hover{
+    cursor: pointer;
+    transform: scale(2);
+    transition-duration: 1s;
+
+}
+
+.contenedor-boton{
+    display: flex;
+    justify-content: center;
+}
+.saludomessi{
+    background-color: yellow;
+    color: blue;
+    cursor: pointer;
+    font-family :serif;
+    font-size: xx-large;
+}
+.saludomessi:hover{
+    transform: scale(2);
+    transition-duration: 1s;
+}
+
